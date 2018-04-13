@@ -1,5 +1,5 @@
 {
   "build": {
-    "target": "bbc-sinobit-classic-gcc,*"
+    "target": "sinobit-classic-gcc,*"
   }
 }
